@@ -1,4 +1,4 @@
-# portfolio
+# Joseph Duke Software Development Portfolio
 
 ## Harvard Problemsets and Portfolio
 ### Harvard CS50x Intro to Comp Sci coursework demo's with code.
